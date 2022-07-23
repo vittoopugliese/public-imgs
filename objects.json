@@ -1,0 +1,32 @@
+{
+  "innerInjuriesEp": {
+    "title": "inner injuries",
+    "description": "temporal album art // ",
+    "duration": "19:48",
+    "price": "$154",
+    "tags": "more inner injuries than ever",
+    "image": "https://raw.githubusercontent.com/vittoopugliese/public-imgs/main/NFTorio/imgs/audioTapes/inner.webp",
+    "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/moreinnerinjuriesthanever.mp3?raw=true",
+    "scLink": "https://soundcloud.com/vittoopugliese/i-1"
+  },
+  "ngsbv3": {
+    "title": "NGSB #3",
+    "description": "Third volume of the Not Good Sounding Breaks series.",
+    "duration": "17:30",
+    "price": "$84",
+    "tags": "not good sounding breaks Not volume one two three",
+    "image": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/imgs/audioTapes/ngsbv3.webp?raw=true",
+    "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/ngsbv3.mp3?raw=true",
+    "scLink": "https://soundcloud.com/v54t/ngsbv3"
+  },
+  "ngsbv2": {
+    "title": "NGSB #2",
+    "description": "Second volume of the Not Good Sounding Breaks series.",
+    "duration": "12:13",
+    "price": "$54",
+    "tags": "not good sounding breaks Not volume one two three",
+    "image": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/imgs/audioTapes/ngsbv2.webp?raw=true",
+    "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/ngsbv2.mp3?raw=true",
+    "scLink": "https://soundcloud.com/v54t/ngsbv2"
+  }
+}
