@@ -1,5 +1,5 @@
-{
-  "innerInjuries": {
+[
+  {
     "title": "inner injuries",
     "description": "temporal album art // ",
     "duration": "19:48",
@@ -9,7 +9,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/moreinnerinjuriesthanever.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/i-1"
   },
-  "notThree": {
+  {
     "title": "NGSB #3",
     "description": "Third volume of the Not Good Sounding Breaks series.",
     "duration": "17:30",
@@ -19,7 +19,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/ngsbv3.mp3?raw=true",
     "scLink": "https://soundcloud.com/v54t/ngsbv3"
   },
-  "notTwo": {
+  {
     "title": "NGSB #2",
     "description": "Second volume of the Not Good Sounding Breaks series.",
     "duration": "12:13",
@@ -29,7 +29,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/ngsbv2.mp3?raw=true",
     "scLink": "https://soundcloud.com/v54t/ngsbv2"
   },
-  "notOne": {
+  {
     "title": "NGSB #1",
     "description": "First volume of the Not Good Sounding Breaks series.",
     "duration": "15:15",
@@ -39,7 +39,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/ngsbv1.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/ngsbv1"
   },
-  "signature": {
+  {
     "title": "SIGNATURE SOUND ® XL",
     "description": "My trap style breaking & featuring 14 tracks.",
     "duration": "31:15",
@@ -49,7 +49,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/signature.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/signature-sound-xl-edition-2021"
   },
-  "verticitatem": {
+  {
     "title": "Verticitatem EP",
     "description": "Second EP of v54.",
     "duration": "08:51",
@@ -59,7 +59,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/verticitatemep.mp3?raw=true",
     "scLink": "https://soundcloud.com/v54t/sets/verticitatem"
   },
-  "danger": {
+  {
     "title": "Danger EP",
     "description": "First EP of v54.",
     "duration": "12:35",
@@ -69,7 +69,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/dangerep.mp3?raw=true",
     "scLink": "https://soundcloud.com/v54t/sets/danger-ep"
   },
-  "insanity": {
+  {
     "title": "Insanity",
     "description": "Stable version of my Insanity.",
     "duration": "03:08",
@@ -79,7 +79,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/insanity.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/insanity"
   },
-  "protowave": {
+  {
     "title": "Protowave111",
     "description": "Enter the magical world in the leads of Protoboy...",
     "duration": "03:24",
@@ -89,7 +89,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/protowave.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/protoboy-111"
   },
-  "satm": {
+  {
     "title": "Sorry About The Mess",
     "description": "I am (not really) sorry for your ears.",
     "duration": "04:20",
@@ -99,7 +99,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/sorryAboutTheMess.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/aah"
   },
-  "oro": {
+  {
     "title": "Oro",
     "description": "Oro, Gold, Killers, Love, Enhance, try again... succes.",
     "duration": "01:37",
@@ -109,7 +109,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/oro.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/oro"
   },
-  "happened": {
+  {
     "title": "It Just Happened",
     "description": "It Just Happened I Never Think I'd Ever Be This Successful...",
     "duration": "1:58",
@@ -119,7 +119,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/itJustHappened.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/it-just-happened-i-never-think-id-ever-be-this-successful"
   },
-  "realLove": {
+  {
     "title": "Real Love is Hard To Find",
     "description": "Real Love Is Hard To Find, When You Have It You Never Have To Let Her Go...",
     "duration": "02:24",
@@ -129,7 +129,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/reallovehardtofind.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/real"
   },
-  "tr": {
+  {
     "title": "tr_1",
     "description": "Experimental screamerCat track that has sent him to Insanity.",
     "duration": "02:14",
@@ -139,7 +139,7 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/tr.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/tr_1"
   },
-  "amTs": {
+  {
     "title": "4am thoughts",
     "description": "the title is selfDescribing the track but I had a thought at 4am.",
     "duration": "1:58",
@@ -149,4 +149,4 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/thought.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/4am-thought"
   }
-}
+]
