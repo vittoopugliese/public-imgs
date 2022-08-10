@@ -40,7 +40,7 @@
     "scLink": "https://soundcloud.com/vittoopugliese/ngsbv1"
   },
   {
-    "title": "SIGNATURE SOUND ® XL",
+    "title": "SIGNATURE SOUND ® XL 21",
     "description": "My trap style featuring 14 tracks.",
     "duration": "31:15",
     "price": "$100",
@@ -48,6 +48,16 @@
     "image": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/imgs/audioTapes/signature.webp?raw=true",
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/signature.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/signature-sound-xl-edition-2021"
+  },
+   {
+    "title": "SIGNATURE SOUND ® XL 22",
+    "description": "mousic ~20 tracks.",
+    "duration": "24:37",
+    "price": "$100",
+    "tags": "signature sound xl edition 2021 2022 22",
+    "image": "https://raw.githubusercontent.com/vittoopugliese/public-imgs/main/NFTorio/imgs/audioTapes/22temp.webp",
+    "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/-22.mp3?raw=true",
+    "scLink": "https://soundcloud.com/vittoopugliese/signature-sound-xl-edition-2022"
   },
   {
     "title": "Verticitatem EP",
@@ -129,6 +139,16 @@
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/reallovehardtofind.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/real"
   },
+    {
+    "title": "vueltas...",
+    "description": "idas...",
+    "duration": "02:58",
+    "price": "$19",
+    "tags": "idas vueltas 19",
+    "image": "https://raw.githubusercontent.com/vittoopugliese/public-imgs/main/NFTorio/imgs/audioTapes/vueltas.webp",
+    "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/vueltas....mp3?raw=true",
+    "scLink": "https://soundcloud.com/vittoopugliese/laps"
+  },
   {
     "title": "tr_1",
     "description": "Experimental screamerCat track that has sent him to Insanity.",
@@ -138,6 +158,26 @@
     "image": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/imgs/audioTapes/tr.webp?raw=true",
     "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/tr.mp3?raw=true",
     "scLink": "https://soundcloud.com/vittoopugliese/tr_1"
+  },
+    {
+    "title": "fantasies",
+    "description": "we all lives inside our own fantasies.",
+    "duration": "01:32",
+    "price": "$77",
+    "tags": "Experimental fantasies itachi",
+    "image": "https://raw.githubusercontent.com/vittoopugliese/public-imgs/main/NFTorio/imgs/audioTapes/trinsanity.webp",
+    "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/fantasies.mp3?raw=true",
+    "scLink": "https://soundcloud.com/linea521/fantasies"
+  },
+  {
+    "title": "im a little bit love shy",
+    "description": "Cause I know our love will be coming and I won't be loveshy anymore.",
+    "duration": "05:47",
+    "price": "$124",
+    "tags": "im a little bit love shy",
+    "image": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/imgs/audioTapes/loveShy.webp?raw=true",
+    "src": "https://github.com/vittoopugliese/public-imgs/blob/main/NFTorio/audio/loveShy.mp3?raw=true",
+    "scLink": "https://soundcloud.com/vittoopugliese/im-a-little-love-shy"
   },
   {
     "title": "4am thoughts",
